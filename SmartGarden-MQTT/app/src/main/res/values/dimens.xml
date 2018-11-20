@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   <dimen name="activity_horizontal_margin">16dp</dimen>
+   <dimen name="activity_vertical_margin">16dp</dimen>
+   <dimen name="tab_max_width">264dp</dimen>
+   <dimen name="tab_padding_bottom">16dp</dimen>
+   <dimen name="tab_label">20sp</dimen>
+   <dimen name="custom_tab_layout_height">68dp</dimen>
+
+
+   <dimen name="imageW">200dp</dimen>
+   <dimen name="imageH">150dp</dimen>
+
+
+   <!--
+
+     <dimen name="fontSizeView">12sp</dimen>
+
+     <dimen name="titleSizeView">14sp</dimen>
+
+  <dimen name="plantSize">14sp</dimen>
+     <dimen name="plantImage">50sp</dimen>
+     <dimen name="maxValue">24sp</dimen>
+
+    -->
+   </resources>

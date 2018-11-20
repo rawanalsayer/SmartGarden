@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:gravity="center"
+    android:orientation="vertical"
+
+    android:padding="16dp"
+
+    tools:context=".SettingFragment">
+
+    <ScrollView
+        android:id="@+id/scrollView"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:layout_margin="5dp"
+            android:paddingBottom="62dp"
+            android:paddingTop="50dp"
+            android:padding="16dp">
+
+
+
+
+            <Button
+                android:id="@+id/change_password_button"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dip"
+                android:background="@color/colorPrimary"
+                android:text="Change Password"
+                android:textColor="@color/white"
+                android:textSize="@dimen/fontSizeView"/>
+
+            <Button
+                android:id="@+id/change_email_button"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dip"
+                android:background="@color/colorPrimary"
+                android:text="Change Email"
+                android:textColor="@color/white"
+                android:textSize="@dimen/fontSizeView"/>
+
+            <Button
+                android:id="@+id/delete_user_button"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dip"
+                android:background="@color/colorPrimary"
+                android:text="Delete User"
+                android:textColor="@color/white"
+                android:textSize="@dimen/fontSizeView"/>
+
+            <Button
+                android:id="@+id/about_us"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dip"
+                android:background="@color/colorPrimary"
+                android:text="About Us"
+                android:textColor="@color/white"
+                android:textSize="@dimen/fontSizeView"/>
+
+            <Button
+                android:id="@+id/exit_button"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dip"
+                android:background="@color/colorPrimary"
+                android:text="Quit"
+                android:textColor="@color/white"
+                android:textSize="@dimen/fontSizeView"/>
+
+            <Button
+                android:id="@+id/contact_us"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dip"
+                android:background="@color/colorPrimary"
+                android:text="Contact Us"
+                android:textColor="@color/white"
+                android:textSize="@dimen/fontSizeView"/>
+
+
+            <Button
+                android:id="@+id/sign_out_button"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dip"
+                android:background="@color/colorPrimary"
+                android:text="Sign Out"
+                android:textColor="@color/white"
+                android:textSize="@dimen/fontSizeView"/>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

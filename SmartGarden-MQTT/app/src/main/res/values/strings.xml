@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">SmartGarden</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">blank</string>
+    <string name="plants">plants</string>
+    <string name="tab1">tab1</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="lightd"> Refers to the total amount of light that plants receive. It is also described as the degree of brightness that a plant is exposed to.\n
+        </string>
+    <string name="lightp"> <ul>
+        <li><b><font color="#72a376">  2152 - 5381 LX\n</font> </b>Not appropriate for most plants.\n\n</li>
+    <li><b><font color="#72a376"> 5381 - 10763 LX\n</font></b> This light intensity is appropriate for shade-loving plants.\n\n</li>
+    <li><b><font color="#72a376"> 10763 - 21527 LX\n</font></b> Appropriate for plants that require indirect sunlight.\n\n</li>
+    <li><b> <font color="#72a376">21527 - 43055 LX\n</font></b> It is ideal for many plants that require good and consistent light intensity.\n\n</li>
+    <li><b><font color="#72a376"> 43055 - 53819 LX\n</font></b> Appropriate for plants that require a lot of strong light.\n\n</li>
+</ul></string>
+
+    <string name="soild"> Soil moisture and its availability to support plant growth is a primary factor in farm productivity. Too little moisture can result in yield loss and plant death. Too much causes root disease and wasted water.\n\n
+        <font color="#0e8360">Soil Types and Watering Information:</font>
+        </string>
+    <string name="soilp"> <ul>
+        <li><b><font color="#72a376"> Loam Soil:\n</font> </b> Very porous and retains moisture well. This is the optimal soil type and can be watered normally.\n\n</li>
+    <li><b><font color="#72a376"> Sandy Soil:\n</font></b> Extremely porous and drains quickly. Water slowly to saturate soil root zones.\n\n</li>
+    <li><b><font color="#72a376"> Clay Soil:\n</font></b> Holds more water, but is slow to absorb and release. Do not water faster than the soil can absorb it.\n\n</li>
+
+</ul>
+        <font color="#0e8360"><b>Recommended Soil Moisture Levels\n\n</b></font>
+        <ul>
+        <li><b><font color="#72a376"> 0 - 20 % Wet\n</font> </b> Tolerates Extremely Dry Soil.\n\n</li>
+    <li><b><font color="#72a376"> 21 - 40 % Wet\n</font></b> Tolerates Dry/Well Drained Soil.\n\n</li>
+    <li><b><font color="#72a376"> 41 - 60 % Wet\n</font></b> Tolerates Moist Soil.\n\n</li>
+            <li><b><font color="#72a376"> 61 - 80 % Wet\n</font></b> Tolerates Wet Soil.\n\n</li>
+
+</ul>
+    </string>
+
+
+    <string name="aird"> Temperature is a primary factor affecting the rate of plant development. Warmer temperatures expected with climate change and the potential for more extreme temperature events will impact plant productivity.\n
+        </string>
+
+    <string name="airp"> <ul>
+        <li><b><font color="#72a376">Most plants:\n</font> </b>Grow at their best between temperatures of 15 - 24C. Some (not many) need less and other\'s need slightly more.\n\n</li>
+    <li><b><font color="#72a376">Temperature too high:\n</font></b>Above 24C is too high for most plants.\n\n</li>
+    <li><b><font color="#72a376">Temperature too low:\n</font></b>This is much more of a problem than higher temperatures because it damages a plants growth significantly and causes plant death, especially when too much water is also provided.\n\n</li>
+    </ul>
+    <b><font color="#72a376">NOTE:\n</font></b>The easiest and most accurate way to identify the correct temperatures for each plant is to look at the specific guidance for each one.\n\n
+
+</string>
+
+    <string name="humidityd">Most plants need humid air in order to thrive. That’s because the pores through which they breathe lose most of their moisture when the surrounding air is dry.\n\n
+        <font color="#0e8360">Ideal Humidity Levels</font>
+        </string>
+
+    <string name="humidityp"> <ul>
+        <li><b><font color="#72a376">Most plants:\n</font></b>Grow best with relative humidity of over 50%.\n\n</li>
+    <li><b><font color="#72a376">Many plants:\n</font></b>Will tolerate lower levels, only those native to arid regions will tolerate humidity levels below 25%.\n\n</li>
+
+</ul>
+<b><font color="#72a376">NOTE:\n</font></b>To improving humidity levels, misting the leaves with a fine misting spray bottle and tepid water
+
+
+    </string>
+
+
+</resources>
